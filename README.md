@@ -1,1 +1,8 @@
-                      Developed a dice game application where users select a number, anticipating its appearance when the dice is rolled. Upon rolling the dice, a random number between 1 to 6 is generated. If the rolled number matches the user's selection, the user is awarded a score equal to the selected number. However, if there is no match, a penalty of -2 score is incurred.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
