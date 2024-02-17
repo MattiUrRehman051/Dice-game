@@ -1,0 +1,1 @@
+                      Developed a dice game application where users select a number, anticipating its appearance when the dice is rolled. Upon rolling the dice, a random number between 1 to 6 is generated. If the rolled number matches the user's selection, the user is awarded a score equal to the selected number. However, if there is no match, a penalty of -2 score is incurred.
